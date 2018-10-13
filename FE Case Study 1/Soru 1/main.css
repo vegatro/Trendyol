@@ -1,0 +1,13 @@
+.default-col{
+    padding: 15px;
+}
+
+.default-col > div.content {
+    background: #ccc;
+    min-height: 120px;
+    height: 100%;
+}
+
+aside.menu {
+    padding: 30px 15px;
+}

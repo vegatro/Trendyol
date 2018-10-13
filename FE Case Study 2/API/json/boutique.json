@@ -1,0 +1,146 @@
+[
+    {
+        "Id": 1,
+        "CategoryType": 1,
+        "Name": "adidas - Kadın & Erkek Spor Giyim",
+        "Image": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/36896/xz1arxsk_0_new.jpg",
+        "Size": "large",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 2,
+        "CategoryType": 1,
+        "Name": "Letoon",
+        "Image": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/36667/cpkji2sy_0_new.jpg",
+        "Size": "large",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 3,
+        "CategoryType": 1,
+        "Name": "Kazak & Mont",
+        "Image": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/36960/3qwhrqhe_0_new.jpg",
+        "Size": "large",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 4,
+        "CategoryType": 2,
+        "Name": "TRENDYOLMİLLA & Soho Exclusive & Soho Men : Büyük İndirim",
+        "Image": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/36789/2ujwvrn0_0_new.jpg",
+        "Size": "large",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 5,
+        "CategoryType": 2,
+        "Name": "İnci - Erken Kış Fırsatı",
+        "Image": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/36789/2ujwvrn0_0_new.jpg",
+        "Size": "large",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 6,
+        "CategoryType": 2,
+        "Name": "Bambi - Yeni Sezon",
+        "Image": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/36740/owflhgta_0_new.jpg",
+        "Size": "large",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 7,
+        "CategoryType": 3,
+        "Name": "Fossil & Guess & Henry London - Saat Koleksiyonu",
+        "Image": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/36742/k4ebyknx_0_new.jpg",
+        "Size": "large",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 8,
+        "CategoryType": 3,
+        "Name": "Ray-Ban & Emporio Armani & Vogue - Güneş Gözlüğü Koleksiyonu",
+        "Image": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/36828/kjuto4mf_0_new.jpg",
+        "Size": "large",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 9,
+        "CategoryType": 3,
+        "Name": "Accessorize",
+        "Image": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/36796/4akdya4l_0_new.jpg",
+        "Size": "large",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 10,
+        "CategoryType": 1,
+        "Name": "Jack & Jones",
+        "Image": "https://img-trendyol.mncdn.com/mnresize/500/247/Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/36577/bs53u5qx_0.jpg",
+        "Size": "small",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 11,
+        "CategoryType": 1,
+        "Name": "Markapark - Yeni Sezon",
+        "Image": "https://img-trendyol.mncdn.com/mnresize/500/247/Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/37086/v1l1yinc_0.jpg",
+        "Size": "small",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 12,
+        "CategoryType": 1,
+        "Name": "Mustang",
+        "Image": "https://img-trendyol.mncdn.com/mnresize/500/247/Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/36677/sevxavgh_0.jpg",
+        "Size": "small",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 13,
+        "CategoryType": 2,
+        "Name": "Kemal Tanca - Ayakkabı Koleksiyonu",
+        "Image": "https://img-trendyol.mncdn.com/mnresize/500/247/Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/31217/ucinevxb_0.jpg",
+        "Size": "small",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 14,
+        "CategoryType": 2,
+        "Name": "Y-London - Bot & Çanta Fırsatı",
+        "Image": "https://img-trendyol.mncdn.com/mnresize/500/247/Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/36106/1egnn43e_0.jpg",
+        "Size": "small",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 15,
+        "CategoryType": 2,
+        "Name": "Marjin - Yeni Sezon",
+        "Image": "https://img-trendyol.mncdn.com/mnresize/500/247/Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/35054/e4glm42b_0.jpg",
+        "Size": "small",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 16,
+        "CategoryType": 3,
+        "Name": "Sunshine - Aksesuar",
+        "Image": "https://img-trendyol.mncdn.com/mnresize/500/247/Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/27590/fuarixer_0.jpg",
+        "Size": "small",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 17,
+        "CategoryType": 3,
+        "Name": "Lacoste - Saat Koleksiyonu",
+        "Image": "https://img-trendyol.mncdn.com/mnresize/500/247/Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/31329/xpz344ak_0.jpg",
+        "Size": "small",
+        "ExpireDate": ""
+    },
+    {
+        "Id": 18,
+        "CategoryType": 3,
+        "Name": "MayGold - Altın Fırsatı",
+        "Image": "https://img-trendyol.mncdn.com/mnresize/500/247/Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/34625/f4wui4ki_0.jpg",
+        "Size": "small",
+        "ExpireDate": ""
+    }
+]

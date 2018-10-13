@@ -1,0 +1,32 @@
+.wrapper {
+    position: relative;
+}
+
+.slice {
+    width: 300px;
+    height: 300px;
+    background-color: #ff8a00;
+    border-radius: 100%;
+    clip: rect(0px, 150px, 150px, 0px);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding: 3px;
+    transform-origin: center;
+}
+
+.slice.tl {
+    transform: rotate(0deg);
+}
+
+.slice.tr {
+    transform: rotate(90deg);
+}
+
+.slice.bl {
+    transform: rotate(270deg);
+}
+
+.slice.br {
+    transform: rotate(180deg);
+}

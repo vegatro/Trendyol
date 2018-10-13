@@ -1,0 +1,156 @@
+$font-family: Arial, Helvetica, sans-serif;
+$body-color: #eee;
+$header-color: #fff;
+$header-width: 1080px;
+$link-color: #000;
+$link-hover-color: #f28232;
+$boutique-name-bg: #000;
+$boutique-name-hv-bg: #f68428;
+$boutique-name-color: #fff;
+
+
+* {
+    box-sizing: border-box;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: $link-color;
+
+    &:hover{
+        text-decoration: none;
+    }
+}
+
+body {
+    font-family: $font-family;
+    background-color: $body-color;
+}
+
+.header-w {
+    width: 100%;
+    box-shadow: 0px 1px 4px #ccc;
+    background: $header-color;
+
+    .header {
+        max-width: $header-width;
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+        margin: 0 auto;
+    }
+
+    #main-header {
+        padding: 15px 0px;
+    }
+}
+
+.header-logo {
+    width: 136px;
+    height: 46px;
+    float: left;
+    display:block;
+}
+
+.header-logo.ty-logo {
+    background-image: url(https://www.trendyol.com/Resources/images/svg/trendyol.svg);
+}
+
+#main-header-menu {
+    ul {
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+
+        li {
+            float: left;
+
+            a {
+                display: block;
+                padding: 14px 15px 12px 15px;
+                border-bottom: 2px solid $header-color;
+                text-transform: uppercase;
+                font-weight: bold;
+                font-size: .8em;
+
+                &:hover {
+                    color: $link-hover-color;
+                    border-bottom: 2px solid $link-hover-color;
+                }
+            }
+        }
+    }
+}
+
+#ty-body {
+    margin-top: 20px;
+}
+
+.boutique-small {
+    margin-top: 50px;
+}
+
+.boutique {
+    margin-bottom: 15px;
+
+    a {
+        display: block;
+        width:100%;
+
+        img {
+            width:100%;
+        }
+
+        h4 {
+            background-color: $boutique-name-bg;
+            color: #fff;
+            font-size: .9em;
+            padding: 8px 10px;
+            position: relative;
+
+            span {
+                display: block;
+                width: calc(100% - 150px);
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+
+            .boutique-cd {
+                display: block;
+                width: 150px;
+                position: absolute;
+                right: 10px;
+                top: 8px;
+                text-align: right;
+            }
+        }
+
+        &:hover {
+            h4 {
+                background-color: $boutique-name-hv-bg;
+            }
+        }
+    }
+}
+
+.campaign {
+    margin-bottom: 12px;
+
+    a {
+        display: block;
+        width:100%;
+
+        img {
+            width:100%;
+        }
+    }
+}
+
+@import 'responsive.scss';

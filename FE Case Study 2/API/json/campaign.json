@@ -1,0 +1,17 @@
+[
+    {
+        "Id": 1,
+        "Name": "Çok Satan Saatler",
+        "Image": "https://img-trendyol.mncdn.com/assets/banner/2018/rightBanners/spor/110918/saatcoksatan.jpg"
+    },
+    {
+        "Id": 2,
+        "Name": "Televizyon ve Beyaz Eşyalarda Dev İndirim",
+        "Image": "https://img-trendyol.mncdn.com/assets/banner/2018/rightBanners/Erkek/091018/tv.jpg"
+    },
+    {
+        "Id": 3,
+        "Name": "Pantolon Rehberi",
+        "Image": "https://img-trendyol.mncdn.com/assets/banner/2018/rightBanners/kadin/190918/images/pantRehberi.jpg"
+    }
+]

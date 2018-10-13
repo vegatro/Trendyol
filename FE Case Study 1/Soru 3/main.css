@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu {
+    width: 300px;
+    height: auto;
+    overflow: hidden;
+}
+
+.menu.sub{
+    display: none;
+    border: 1px solid #ddd;
+}
+
+.menu .menu-item {
+    height: auto;
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+    border-bottom: 1px solid #aa142f;
+}
+
+.menu.sub > .menu-item {
+    border-bottom: 1px solid #ddd;
+}
+
+.menu .menu-item.selected .menu.sub {
+    display: block;
+}
+
+.menu span.label {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    padding: 0px 10px;
+    background-color: #ec1946;
+    color: #fff;
+}
+
+.menu:not(.sub) > .menu-item > span.label {
+    text-transform: uppercase;
+}
+
+.menu.sub span.label {
+    width: 100%;
+    background-color: #fff;
+    color: #ec1946;
+}
+
+.menu.sub .menu-item:nth-child(even) span.label{
+    background-color: #eee;
+}
+
+.menu:not(.sub) > .menu-item.selected > span.label, .menu .menu-item span.label:hover {
+    background-color: #be1e38;
+}
+
+.menu.sub .menu-item span.label:hover {
+    background-color: #ccc;
+}
+
+.menu span.child-count {
+    display: block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-align: center;
+    background-color: #be1e38;
+    color: #fff;
+}
